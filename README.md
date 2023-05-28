@@ -18,3 +18,10 @@ Every code challenge you complete you add more money to your investments(ie: bon
 <ol> Design Patterns  </ol>
 https://github.com/jwasham/coding-interview-university
 </p>
+
+<h2>Have you ever heard of a Game Jam or a Hackathon?</h2>
+<p>
+  Well if not you should check out https://itch.io/jams there are so many Game Jams you can join to get some experiance to put on your resume!
+</p>
+
+<blockquote>“Choose a job you love, and you will never have to work a day in your life.” ~ Confucius</blockquote>
