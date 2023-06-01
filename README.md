@@ -25,3 +25,9 @@ https://github.com/jwasham/coding-interview-university
 </p>
 
 <blockquote>“Choose a job you love, and you will never have to work a day in your life.” ~ Confucius</blockquote>
+
+<h2>CSS Tricks</h2>
+<p>
+  Codeplate helps you produce CSS boilerplate code as a template render for your web development and design projects. You can quickly add Google Fonts, custom properties, and a CSS reset to get your CSS project up and running faster.
+https://codeplate.co/
+</p>
