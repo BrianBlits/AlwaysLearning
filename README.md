@@ -31,3 +31,10 @@ https://github.com/jwasham/coding-interview-university
   Codeplate helps you produce CSS boilerplate code as a template render for your web development and design projects. You can quickly add Google Fonts, custom properties, and a CSS reset to get your CSS project up and running faster.
 https://codeplate.co/
 </p>
+
+<h2>Some days you just need to look at a cheat sheet, well boy do I have you covered</h2>
+<p>
+  VSCheatsheet | Shortcuts in the shortest time possible | Shortcut Illustrations
+Find your favorite shortcut and increase your profanity
+https://www.vscheatsheet.com/
+</p>
