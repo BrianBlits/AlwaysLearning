@@ -38,3 +38,9 @@ https://codeplate.co/
 Find your favorite shortcut and increase your profanity
 https://www.vscheatsheet.com/
 </p>
+
+<h2>Design resources</h2>
+<p>
+Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more made by Brad Traversy <br>
+https://github.com/bradtraversy/design-resources-for-developers
+</p>
