@@ -44,3 +44,10 @@ https://www.vscheatsheet.com/
 Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more made by Brad Traversy <br>
 https://github.com/bradtraversy/design-resources-for-developers
 </p>
+
+<h2>30 Seconds of Code</h2>
+<p>
+I found a interesting website that helped me understand react hooks a little more, check it out! <br>
+Short code snippets for all your development needs. You can look at snippets or check out code articles! <br>
+https://www.30secondsofcode.org/
+</p>
