@@ -51,3 +51,10 @@ I found a interesting website that helped me understand react hooks a little mor
 Short code snippets for all your development needs. You can look at snippets or check out code articles! <br>
 https://www.30secondsofcode.org/
 </p>
+
+<h2>Heard of GO?</h2>
+<p>
+GO is a pretty well-established programming language that seems to be on the rise again with popular companies like one password, using it as their main language!
+here is a great resource to learn GO thanks to the great people at freecodecamp!
+https://www.freecodecamp.org/news/learn-go-by-building-11-projects/
+</p>
