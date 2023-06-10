@@ -58,3 +58,9 @@ GO is a pretty well-established programming language that seems to be on the ris
 here is a great resource to learn GO thanks to the great people at freecodecamp!
 https://www.freecodecamp.org/news/learn-go-by-building-11-projects/
 </p>
+
+<h2>APIs</h2>
+<p>
+  Dev TikTok showed me a great resource today for APIs!
+https://publicapis.dev/
+</p>
