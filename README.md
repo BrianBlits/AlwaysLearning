@@ -64,3 +64,22 @@ https://www.freecodecamp.org/news/learn-go-by-building-11-projects/
   Dev TikTok showed me a great resource today for APIs!
 https://publicapis.dev/
 </p>
+
+<h2>Cookies, Sessions, and Local Storage</h2>
+<p>
+Explaning what are 'Cookies', ' Session' and 'Local storage are!
+</p>
+<p>
+Cookies:
+- Retain data at the client side for a period of time
+- Automatically return to the server on every request <br>
+Cookies have one limitation though <br>
+- It is not suitable for keeping sensitive data or large amount data. 
+</p>
+<p>
+Sessions:
+- Keep temporary data that are shared among server-side scripts for related requests.
+</p>
+<p>
+local storage: is where you store arbitrary data the the client side, basically in the browser.
+</p>
