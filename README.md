@@ -28,8 +28,16 @@ https://github.com/jwasham/coding-interview-university
 
 <h2>CSS Tricks</h2>
 <p>
-  Codeplate helps you produce CSS boilerplate code as a template render for your web development and design projects. You can quickly add Google Fonts, custom properties, and a CSS reset to get your CSS project up and running faster.
+  <b>Codeplate</b>: helps you produce CSS boilerplate code as a template render for your web development and design projects. You can quickly add Google Fonts, custom properties, and a CSS reset to get your CSS project up and running faster. <br>
 https://codeplate.co/
+</p>
+<p>
+<B>Neumorphism</B>: is a great Soft-UI CSS Generator <br>
+  https://neumorphism.io/#e0e0e0
+</p>
+<p>
+ <b>Glassmorphism</b>: CSS generator for creating a stunning glass effect for your UI designs. <br>
+  https://markodenic.com/tools/glassmorphism-css-generator/
 </p>
 
 <h2>Some days you just need to look at a cheat sheet, well boy do I have you covered</h2>
