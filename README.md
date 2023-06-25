@@ -91,3 +91,15 @@ Sessions:
 <p>
 local storage: this is where you store arbitrary data on the client side, basically in the browser.
 </p>
+
+<h2>Declarative and Imperative Programming</h2>
+<p>
+Declarative programming is a way of abstracting away the process by which a particular task is done.
+</p>
+<p>
+As an example, consider the following example.
+    <ol>A parent or guardian may explicitly tell you how to accomplish a task, with you doing the heavy lifting.</ol>
+    <ol>When you ask a professional to accomplish the same task, they won't tell you how to do it. It just gets done, and you do a lot less work.</ol>
+    <ol>Declarative programming and React are more like the professional.</ol>
+</p>
+
