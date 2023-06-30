@@ -102,4 +102,15 @@ As an example, consider the following example.
     <ol>When you ask a professional to accomplish the same task, they won't tell you how to do it. It just gets done, and you do a lot less work.</ol>
     <ol>Declarative programming and React are more like the professional.</ol>
 </p>
-
+<p>Characteristics of imperative programming:
+    <ol>low level</ol>
+    <ol>step by step</ol>
+    <ol>shared/mutable variables</ol>
+    <ol>side effects</ol>
+</p>
+<p>Characteristics of declarative programming:
+    <ol>higher level</ol>
+    <ol>what not how</ol>
+    <ol>no mutable variables</ol>
+    <ol>no side effects</ol>
+</p>
