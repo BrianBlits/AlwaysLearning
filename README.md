@@ -114,3 +114,17 @@ As an example, consider the following example.
     <ol>no mutable variables</ol>
     <ol>no side effects</ol>
 </p>
+
+<h2>Functions</h2>
+<p>
+  Functions are the building blocks of javascript. We can use them to separate out and name pieces of code
+</p>
+<h3>Composing with functions</h3>
+<p>
+  Start with small and specific functions,
+And combine them to make more complex functions.
+</p>
+<h3>Pure Functions</h3>
+<p>
+  A function that will always return the same value for identical inputs and doesn’t produce any side effects
+</p>
